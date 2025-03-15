@@ -5,7 +5,7 @@ title = 'Practica0'
 +++
 
 <!-- esto es un comentario-->
-# Encabezado 1
+#   Practica 0 - Uso de repositorios
 ## Encabezado 2
 ### Encabezado 3
 #### Encabezado 4
