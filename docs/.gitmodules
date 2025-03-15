@@ -1,0 +1,6 @@
+[submodule "mingw-w64.github.io"]
+	path = mingw-w64.github.io
+	url = https://github.com/mingw-w64/mingw-w64.github.io.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
