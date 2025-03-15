@@ -25,7 +25,7 @@ concurrency:
 # Default to bash
 defaults:
   run:
-    shell: bash
+    shell: /usr/bin/bash --noprofile --norc -e -o pipefail {0}
 
 jobs:
   # Build job
